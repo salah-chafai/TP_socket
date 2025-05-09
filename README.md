@@ -24,5 +24,9 @@ This setup demonstrates the use of CRC to detect data corruption in a networked 
 
 Compile and run each component in separate terminals or network nodes. Ensure they communicate in the correct order: `server → middleman → client`.
 
+### Note
+
+The attached Makefile is for linux compilation
+
 ---
 
